@@ -32,7 +32,7 @@ void loop()
     Serial.print("Smoke detected");
     Serial.print(gasValue);
     Serial.println("");
-    delay(86400000); 
+    delay(20000); 
   } else {
     digitalWrite(13, LOW);
     Serial.println(gasValue);
