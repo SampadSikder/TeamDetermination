@@ -109,7 +109,7 @@ void loop()
         float temp=getTemperature();
         Serial.print(temp);
     Serial.println(" degrees C");
-        if (temp>=70){
+        if (temp>=70&& (LPG_value||CO_value||SMOKE_value)>=100){
          Serial.print("Notify fireservice");
          delay(86400);
         }
