@@ -1,0 +1,460 @@
+.mediaViewInfo {
+	--web-view-name: iPhone 13, 12 Pro Max – 13;
+	--web-view-id: iPhone_13_12_Pro_Max__13;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_13_12_Pro_Max__13;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_13_12_Pro_Max__13 {
+	position: absolute;
+	width: 518px;
+	height: 943px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone 13, 12 Pro Max – 13;
+	--web-view-id: iPhone_13_12_Pro_Max__13;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+#Ellipse_1 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 30px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 310px;
+	height: 317px;
+	left: 104px;
+	top: 207px;
+}
+#Screenshot_2022-02-03_001148 {
+	position: absolute;
+	width: 519px;
+	height: 515px;
+	left: -1px;
+	top: 45px;
+	overflow: visible;
+}
+#Rectangle_33 {
+	fill: rgba(166,8,8,1);
+	stroke: rgba(166,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 518px;
+	height: 45px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_62 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_62 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.51));
+	position: absolute;
+	overflow: visible;
+	width: 407px;
+	height: 68px;
+	left: 0px;
+	top: 62px;
+}
+#Rectangle_68 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_68 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.51));
+	position: absolute;
+	overflow: visible;
+	width: 396px;
+	height: 68px;
+	left: 0px;
+	top: 483px;
+}
+#n_4_mins_to_the_location_of_th {
+	left: 6px;
+	top: 74px;
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: HP Simplified Hans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_63 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_63 {
+	position: absolute;
+	overflow: visible;
+	width: 518px;
+	height: 295px;
+	left: 0px;
+	top: 560px;
+}
+#n__Islami_Bank_Hospital_Motijh {
+	left: 18px;
+	top: 575px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: HP Simplified Hans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#n_Dr_Muttalib_Community_Hospit {
+	left: 18px;
+	top: 714px;
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: HP Simplified Hans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#Group_15 {
+	position: absolute;
+	width: 158px;
+	height: 44px;
+	left: 154px;
+	top: 619px;
+	overflow: visible;
+}
+#Group_14 {
+	position: absolute;
+	width: 158px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_67 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_67 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.639));
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+#Call_Now {
+	left: 53px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: HP Simplified Hans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#Scroll_Group_1 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 33px;
+	height: 31.343px;
+	left: 10px;
+	top: 6px;
+	overflow: hidden;
+}
+#Icon_awesome-phone {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-phone {
+	overflow: visible;
+	position: absolute;
+	width: 29.861px;
+	height: 22.277px;
+	transform: translate(-2px, -5.441px) matrix(1,0,0,1,9.5692,9.9733) rotate(86deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_16 {
+	position: absolute;
+	width: 158px;
+	height: 44px;
+	left: 154px;
+	top: 762px;
+	overflow: visible;
+}
+#Group_14_bb {
+	position: absolute;
+	width: 158px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_67_bc {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_67_bc {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.639));
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+#Call_Now_bd {
+	left: 53px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: HP Simplified Hans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#Scroll_Group_1_be {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 33px;
+	height: 31.343px;
+	left: 10px;
+	top: 6px;
+	overflow: hidden;
+}
+#Icon_awesome-phone_bf {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-phone_bf {
+	overflow: visible;
+	position: absolute;
+	width: 29.861px;
+	height: 22.277px;
+	transform: translate(-2px, -5.441px) matrix(1,0,0,1,9.5692,9.9733) rotate(86deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Line_14 {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_14 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	overflow: visible;
+	position: absolute;
+	width: 519px;
+	height: 19px;
+	left: 0px;
+	top: 685.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_15 {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_15 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	overflow: visible;
+	position: absolute;
+	width: 519px;
+	height: 19px;
+	left: 0px;
+	top: 828.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_65 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_65 {
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	height: 274px;
+	left: 501px;
+	top: 571px;
+}
+#Rectangle_66 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_66 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 54px;
+	left: 501px;
+	top: 583px;
+}
+#Rectangle_64 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_64 {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 2px;
+	left: 52px;
+	top: 731px;
+}
+#Group_17 {
+	position: absolute;
+	width: 518px;
+	height: 95px;
+	left: 0px;
+	top: 848px;
+	overflow: visible;
+}
+#Rectangle_18 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 518px;
+	height: 92px;
+	left: 0px;
+	top: 3px;
+}
+#Icon_metro-home {
+	fill: rgba(0,0,0,1);
+}
+.Icon_metro-home {
+	overflow: visible;
+	position: absolute;
+	width: 34.683px;
+	height: 34.336px;
+	left: 52.659px;
+	top: 28px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_13__12_Pro_Max___12.html;
+	cursor: pointer;
+}
+#Icon_ionic-md-settings {
+	fill: rgba(0,0,0,1);
+}
+.Icon_ionic-md-settings {
+	overflow: visible;
+	position: absolute;
+	width: 32.893px;
+	height: 34.74px;
+	left: 179.896px;
+	top: 31.408px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_27 {
+	fill: rgba(166,8,8,1);
+	stroke: rgba(204,5,5,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 9px;
+	left: 403px;
+	top: 0px;
+}
+#Icon_awesome-user-alt {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-user-alt {
+	overflow: visible;
+	position: absolute;
+	width: 32.194px;
+	height: 32.297px;
+	left: 308.344px;
+	top: 32.02px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-bell {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-bell {
+	overflow: visible;
+	position: absolute;
+	width: 29.635px;
+	height: 32.59px;
+	left: 438.25px;
+	top: 879.705px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Nearby_Medical_Hospitals_and_C {
+	left: 10px;
+	top: 495px;
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: HP Simplified Hans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
